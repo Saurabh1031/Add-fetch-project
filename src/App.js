@@ -62,7 +62,7 @@ function App() {
   }
 
   if (isLoading) {
-    content = <p>Loading, please wait!!!!</p>;
+    content = <p>Loading, please wait!!</p>;
   }
 
   return (
